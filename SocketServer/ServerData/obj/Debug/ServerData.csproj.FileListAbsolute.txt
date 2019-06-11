@@ -1,0 +1,6 @@
+C:\Users\nirle\source\repos\SocketServer\ServerData\bin\Debug\ServerData.dll
+C:\Users\nirle\source\repos\SocketServer\ServerData\bin\Debug\ServerData.pdb
+C:\Users\nirle\source\repos\SocketServer\ServerData\obj\Debug\ServerData.csprojAssemblyReference.cache
+C:\Users\nirle\source\repos\SocketServer\ServerData\obj\Debug\ServerData.csproj.CoreCompileInputs.cache
+C:\Users\nirle\source\repos\SocketServer\ServerData\obj\Debug\ServerData.dll
+C:\Users\nirle\source\repos\SocketServer\ServerData\obj\Debug\ServerData.pdb

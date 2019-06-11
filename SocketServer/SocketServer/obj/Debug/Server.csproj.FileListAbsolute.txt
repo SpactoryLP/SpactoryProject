@@ -1,0 +1,10 @@
+C:\Users\nirle\source\repos\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+C:\Users\nirle\source\repos\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\nirle\source\repos\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\nirle\source\repos\SocketServer\SocketServer\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\nirle\source\repos\SocketServer\SocketServer\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\nirle\source\repos\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\nirle\source\repos\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
+C:\Users\nirle\source\repos\SocketServer\SocketServer\bin\Debug\ServerData.dll
+C:\Users\nirle\source\repos\SocketServer\SocketServer\bin\Debug\ServerData.pdb
+C:\Users\nirle\source\repos\SocketServer\SocketServer\obj\Debug\Server.csproj.CopyComplete

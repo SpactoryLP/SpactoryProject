@@ -1,0 +1,15 @@
+C:\Users\nirle\source\repos\SocketServer\Client\bin\Release\Client.exe.config
+C:\Users\nirle\source\repos\SocketServer\Client\bin\Release\Client.exe
+C:\Users\nirle\source\repos\SocketServer\Client\bin\Release\Client.pdb
+C:\Users\nirle\source\repos\SocketServer\Client\bin\Release\ServerData.dll
+C:\Users\nirle\source\repos\SocketServer\Client\bin\Release\ServerData.pdb
+C:\Users\nirle\source\repos\SocketServer\Client\obj\Release\Client.csprojAssemblyReference.cache
+C:\Users\nirle\source\repos\SocketServer\Client\obj\Release\Client.Form1.resources
+C:\Users\nirle\source\repos\SocketServer\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\nirle\source\repos\SocketServer\Client\obj\Release\Client.csproj.GenerateResource.cache
+C:\Users\nirle\source\repos\SocketServer\Client\obj\Release\Client.csproj.CoreCompileInputs.cache
+C:\Users\nirle\source\repos\SocketServer\Client\obj\Release\Client.csproj.CopyComplete
+C:\Users\nirle\source\repos\SocketServer\Client\obj\Release\Client.exe
+C:\Users\nirle\source\repos\SocketServer\Client\obj\Release\Client.pdb
+C:\Users\nirle\source\repos\SocketServer\Client\obj\Release\Client.MainChat.resources
+C:\Users\nirle\source\repos\SocketServer\Client\obj\Release\Client.MessageStructure.resources
